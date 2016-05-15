@@ -1,4 +1,4 @@
-//¶þ²æÊ÷½¨Ê÷ºó£¬¿íËÑ
+//äºŒå‰æ ‘å»ºæ ‘åŽï¼Œå®½æœ
 #include <iostream>
 #include<cstdio>
 #include<cstring>
